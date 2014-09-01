@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>SharpSquare.PCL</id>
-        <version>1.0.7</version>
+        <version>1.0.8</version>
         <title>SharpSquare PCL async</title>
         <authors>Alfeg</authors>
         <owners>TICLAB</owners>
@@ -24,7 +24,7 @@ Each API call is mapped to a one-to-one method and each FourSquare entity is map
 <tags>foursquare pcl async wp8</tags>
     </metadata>
     <files>
-        <file src="bin\Release\SharpSquare.dll" target="lib\portable-net45+wp8\SharpSquare.dll" />
-        <file src="bin\Release\SharpSquare.pdb" target="lib\portable-net45+wp8\SharpSquare.pdb" />
+        <file src="bin\Release\SharpSquare.dll" target="lib\portable-net45+win8+wp8+wpa81\SharpSquare.dll" />
+        <file src="bin\Release\SharpSquare.pdb" target="lib\portable-net45+win8+wp8+wpa81\SharpSquare.pdb" />
     </files>
 </package>
